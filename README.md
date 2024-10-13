@@ -1,15 +1,4 @@
-# AcadArch.github.ioportfolio-website/
-│
-├── index.html         # Saytning asosiy sahifasi
-├── about.html         # About bo‘limi uchun sahifa (ixtiyoriy)
-├── styles/            # CSS fayllarini saqlash uchun papka
-│   └── main.css       # Sayt uchun asosiy CSS fayli
-├── scripts/           # JS fayllarini saqlash uchun papka
-│   └── app.js         # JavaScript logikasi (ixtiyoriy)
-├── images/            # Rasmlarni saqlash uchun papka
-│   └── (rasmlar)      # Yuklagan rasmlaringiz
-└── README.md          # Loyihangiz haqidagi qisqacha ma'lumot
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
